@@ -1,0 +1,36 @@
+{
+	"recettes": [
+		{
+			"nom" : "Gateau au chocolat", 
+			"materiel" : ["four", "moule", "bol", "fouet"], 
+			"ingredients" : [
+				{
+					"nom" : "chocolat", 
+					"qte" : "135g"
+				},
+				{
+					"nom" : "sucre", 
+					"qte" : "135g"
+				}, 
+				{
+					"nom" : "beurre", 
+					"qte" : "65g"
+				}, 
+				{
+					"nom" : "oeufs", 
+					"qte" : "3"
+				}, 
+				{
+					"nom" : "farine", 
+					"qte" : "2 Cuil. soupe"
+				}
+			],
+			"etapes" : [
+				"Faire fondre le beurre et le chocolat", 
+				"Ajouter les jaunes d'oeufs puis la farine et le sucre", 
+				"Battre les blancs en neige et incorporer delicatement dans le melange", 
+				"Faire cuire pdt 45min a 150°C"
+			]
+		}
+	]
+}
